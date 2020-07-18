@@ -1,0 +1,63 @@
+{
+  "applications":
+  {
+    "gecko":
+    {
+      "strict_min_version": "60.0a1"
+    }
+  },
+
+  "author": "Sukesan",
+
+  "background":
+  {
+    "scripts": ["main.js"]
+  },
+
+  "default_locale": "en",
+
+  "description": "__MSG_extensionDescription__",
+
+  "icons":
+  {
+    "48": "icons/quickTranslator_icon_48px.png",
+    "96": "icons/quickTranslator_icon_96px.png"
+  },
+
+  "manifest_version": 2,
+
+  "name": "Quick translator for Android",
+
+  "options_ui":
+  {
+    "browser_style": true,
+    "open_in_tab":   true,
+    "page": "documents/options/option_page.html"
+  },
+
+  "browser_action":
+  {
+    "browser_style": true,
+    "default_icon": 
+    {
+      "48": "icons/quickTranslator_icon_48px.png",
+      "96": "icons/quickTranslator_icon_96px.png"
+    },
+    "default_title": "__MSG_tooltipTitle__",
+    "theme_icons":
+    [{
+      "light":"icons/quickTranslator_icon_48px_light.png",
+      "dark": "icons/quickTranslator_icon_48px.png",
+      "size": 48
+    },
+    {
+      "light":"icons/quickTranslator_icon_96px_light.png",
+      "dark": "icons/quickTranslator_icon_96px.png",
+      "size": 96
+    }]
+  },
+
+  "permissions": ["storage", "tabs"],
+
+  "version": "1.0.0"
+}

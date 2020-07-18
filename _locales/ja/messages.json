@@ -1,0 +1,54 @@
+{
+  "extensionDescription":
+  {
+    "message": "ツールバーに翻訳の補助をする項目を追加するAdd-onです。"
+  },
+
+  "menuTextTitle01":
+  {
+    "message": "選択されているテキストを翻訳"
+  },
+
+  "menuTextTitle02":
+  {
+    "message": "このウェブページを翻訳"
+  },
+
+
+  "tooltipTitle":
+  {
+    "message": "このウェブページを翻訳"
+  },
+
+
+  "optionPageServiceUsedFor":
+  {
+    "message": "翻訳に用いるサービス"
+  },
+
+  "optionPageSpecifyTranslationService":
+  {
+    "message": "翻訳サービスの指定"
+  },
+
+  "optionPageWhenBingIsSelected":
+  {
+    "message": "\"Bing\"を選択していると使用できない言語がいくつかあります。"
+  },
+
+
+  "optionPageTranslatedLanguage":
+  {
+    "message": "翻訳後の言語"
+  },
+
+  "optionPageSpecifyLanguageCode":
+  {
+    "message": "言語コードの指定"
+  },
+
+  "optionPageIfSetEn":
+  {
+    "message": "仮に\"en - English\"に設定した場合、テキストやウェブサイトは英語に翻訳されます。"
+  }
+}

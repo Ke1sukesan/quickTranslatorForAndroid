@@ -1,0 +1,54 @@
+{
+  "extensionDescription":
+  {
+    "message": "Les modules complémentaires ajoutent des éléments pour aider à traduire le barre d'outils."
+  },
+
+  "menuTextTitle01":
+  {
+    "message": "Traduire le texte sélectionné"
+  },
+
+  "menuTextTitle02":
+  {
+    "message": "Traduire cette page web"
+  },
+
+
+  "tooltipTitle":
+  {
+    "message": "Traduire cette page web"
+  },
+
+
+  "optionPageServiceUsedFor":
+  {
+    "message": "Service utilisé pour la traduction"
+  },
+
+  "optionPageSpecifyTranslationService":
+  {
+    "message": "Spécifiez un service de traduction"
+  },
+
+  "optionPageWhenBingIsSelected":
+  {
+    "message": "Lorsque \"Bing\" est sélectionné, certaines langues ne sont pas disponibles."
+  },
+  
+
+  "optionPageTranslatedLanguage":
+  {
+    "message": "Langue traduite"
+  },
+
+  "optionPageSpecifyLanguageCode":
+  {
+    "message": "Spécifiez le code de langue"
+  },
+
+  "optionPageIfSetEn":
+  {
+    "message": "\"en - English\", le texte et le site Web seront traduits en anglais."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "extensionDescription":
+  {
+    "message": "El complemento agrega un elemento para ayudar a la traducción al barra de herramientas."
+  },
+
+  "menuTextTitle01":
+  {
+    "message": "Traducir texto seleccionado"
+  },
+
+  "menuTextTitle02":
+  {
+    "message": "Traducir esta página web"
+  },
+
+
+  "tooltipTitle":
+  {
+    "message": "Traducir esta página web"
+  },
+
+
+  "optionPageServiceUsedFor":
+  {
+    "message": "Servicio utilizado para la traducción."
+  },
+
+  "optionPageSpecifyTranslationService":
+  {
+    "message": "Especificar un servicio de traducción."
+  },
+
+  "optionPageWhenBingIsSelected":
+  {
+    "message": "Cuando se selecciona \"Bing\", algunos idiomas no están disponibles."
+  },
+
+
+  "optionPageTranslatedLanguage":
+  {
+    "message": "Lenguaje traducido"
+  },
+
+  "optionPageSpecifyLanguageCode":
+  {
+    "message": "Especificar código de idioma"
+  },
+
+  "optionPageIfSetEn":
+  {
+    "message": "Si se establece en \"en - English\", los textos y sitios web se traducirán al inglés."
+  }
+}
