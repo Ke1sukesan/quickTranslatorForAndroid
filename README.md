@@ -2,6 +2,7 @@
 
 <p>
   This is add-on of firefox.<br>
+  Add-on page: https://addons.mozilla.org/ja/firefox/addon/quick-translator-for-android/
 </p>
 
 <h3>Overview</h3>
