@@ -22,5 +22,8 @@
     1. Use a shortcut for translation from the toolbar. This is because the context menu API cannot be used in the Android version.
   </p>
   <p>
-    2. Omit functions related to "Open in new window".
+    2. Can't be translated from selecting a text. This is also due to the context menu API not being available
+  </p>
+  <p>
+    3. Omit functions related to "Open in new window".
   </p>
